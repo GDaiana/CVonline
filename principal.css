@@ -1,0 +1,68 @@
+
+  
+
+body{
+background-color: #80D4FF;
+    
+}
+
+.clasecv
+{text-align: center;
+    
+}
+
+h1{
+    color:black;
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-family: 'Mukta', sans-serif;
+    ;
+
+
+}
+
+h2{
+    color:black;
+    font-family: 'Alex Brush', cursive;
+
+    
+}
+
+p1
+{
+    color:#C46210;
+    display: block;
+   text-align: justify;
+   font-family: 'Fira Sans', sans-serif;
+       
+}
+
+
+.fotodelcv
+ {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300px;
+    width:300px
+ }
+
+
+.iconolinkedin
+{
+height:50px; 
+width:50px;
+font-size: 50%;
+
+}
+
+.githubicono
+{   
+
+    height: 50px ;
+    width:50px;
+    font-size:92.5%;
+   
+
+}
